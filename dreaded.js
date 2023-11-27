@@ -449,7 +449,7 @@ if (antilink === 'TRUE' && antilinkall === 'TRUE' && body.includes('http') && !O
       switch (command) {
       case "help":
         case "menu":
-let cap = `┌───═[ 𝐝𝐫𝐞𝐱_𝐦𝐨𝐬𝐞 ]═──▸
+let cap = `┌───═[ ${botname} ]═──▸
 
 ▯ Hello ${m.pushName}
 This is a simple WhatsApp Bot.
