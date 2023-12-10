@@ -557,7 +557,7 @@ client.sendMessage(m.chat, {
                                 title: `DREADED BOT`,
                                 body: `A simple WhatsApp bot.`,
                                 thumbnail: fs.readFileSync('./dreaded.jpg'),
-                                sourceUrl: `https://github.com/Fortunatusmokaya/DREADED-GPT-AI`,
+                                sourceUrl: `https://github.com/zandat3/DREADED-GPT-AI`,
                                 mediaType: 1,
                                 renderLargerThumbnail: true
                             }
